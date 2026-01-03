@@ -16,4 +16,10 @@
 - 🧠 Interested in solving real-world problems using data  
 - 🚀 Building projects to apply what I learn
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshith-2909&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshith-2909&layout=compact&theme=radical)
+
 
