@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arshith CP
+# Hi 👋, I'm Arshith 
 
 🎓 Engineering Student | 💻 Aspiring Full Stack Developer | 📚 DSA Learner
 
