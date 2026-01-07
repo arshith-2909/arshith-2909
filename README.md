@@ -14,7 +14,6 @@
 - 🌱 Learning **Full Stack Web Development (MERN)**  
 - 📊 Exploring **Data Science, Machine Learning, and AI concepts**  
 - 🧠 Interested in solving real-world problems using data  
-- 🚀 Building projects to apply what I learn
 
 ## 📊 GitHub Stats
 
